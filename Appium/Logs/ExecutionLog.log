@@ -1,0 +1,67 @@
+2023-07-28 16:04:36,311 - Calculator_Test -INFO - Calculator app is open
+2023-07-28 16:05:16,774 - Calculator_Test -INFO - Click on privacy
+2023-07-28 16:06:00,190 - Calculator_Test -INFO - Click on one number
+2023-07-28 16:06:40,570 - Calculator_Test -INFO - Click on plus
+2023-07-28 16:07:20,834 - Calculator_Test -INFO - Click on six number
+2023-07-28 16:08:01,094 - Calculator_Test -INFO - Click on equals
+2023-07-28 16:08:31,324 - Calculator_Test -INFO - Result is displayed on screen
+2023-07-28 16:09:14,717 - Calculator_Test -INFO - Click on clear
+2023-07-28 16:09:45,062 - Calculator_Test -INFO - zero is displayed on screen
+2023-07-28 16:09:45,328 - Calculator_Test -INFO - Application is closed
+2023-07-28 16:20:46,285 - Drag_Drop_Appium -INFO - Api-Demos application is opened
+2023-07-28 16:21:36,802 - Drag_Drop_Appium -INFO - Click on contiune
+2023-07-28 16:22:17,120 - Drag_Drop_Appium -INFO - Click on next
+2023-07-28 16:22:57,541 - Drag_Drop_Appium -INFO - Click on next
+2023-07-28 16:23:47,958 - Drag_Drop_Appium -INFO - Click on API Demos
+2023-07-28 16:24:38,372 - Drag_Drop_Appium -INFO - Click on views
+2023-07-28 16:25:18,748 - Drag_Drop_Appium -INFO - Click on next
+2023-07-28 16:25:58,761 - Drag_Drop_Appium -INFO - Drag & Drop activity is completed
+2023-07-28 16:25er:59,185 - Drag_Drop_Appium -INFO - Close Application
+2023-07-28 16:43:19,110 - Appium_Messages_Seprate_OTP -INFO - Open messaging app
+2023-07-28 16:43:59,460 - Appium_Messages_Seprate_OTP -INFO - Click on close
+2023-07-28 16:44:39,805 - Appium_Messages_Seprate_OTP -INFO - Click on agree terms & conditions
+2023-07-28 16:45:20,062 - Appium_Messages_Seprate_OTP -INFO - CLick on search
+2023-07-28 16:46:12,699 - Appium_Messages_Seprate_OTP -INFO - Send the value Phoepe in search box
+2023-07-28 16:46:53,175 - Appium_Messages_Seprate_OTP -INFO - Click on search button
+2023-07-28 16:47:23,519 - Appium_Messages_Seprate_OTP -INFO - OTP is seperated from message
+2023-08-04 11:08:54,983 - Drag_Drop_Appium -INFO - Api-Demos application is opened
+2023-08-04 11:09:45,651 - Drag_Drop_Appium -INFO - Click on contiune
+2023-08-04 11:10:25,908 - Drag_Drop_Appium -INFO - Click on next
+2023-08-04 11:11:06,055 - Drag_Drop_Appium -INFO - Click on next
+2023-08-04 11:11:56,523 - Drag_Drop_Appium -INFO - Click on API Demos
+2023-08-04 11:12:47,154 - Drag_Drop_Appium -INFO - Click on views
+2023-08-04 11:13:27,549 - Drag_Drop_Appium -INFO - Click on next
+2023-08-04 11:15:14,264 - Drag_Drop_Appium -INFO - Drag & Drop activity is completed
+2023-08-04 11:15:14,624 - Drag_Drop_Appium -INFO - Close Application
+2023-08-19 15:51:32,336 - Assignment_Appium -INFO - Application open
+2023-08-19 15:52:23,114 - Assignment_Appium -INFO - Click on continue
+2023-08-19 15:53:03,555 - Assignment_Appium -INFO - Click on next
+2023-08-19 15:53:44,181 - Assignment_Appium -INFO - Click on next
+2023-08-24 15:36:05,943 - Assignment_Appium -INFO - Application open
+2023-08-24 15:36:56,430 - Assignment_Appium -INFO - Click on continue
+2023-08-24 15:37:36,595 - Assignment_Appium -INFO - Click on next
+2023-08-24 15:38:16,974 - Assignment_Appium -INFO - Click on next
+2023-08-24 15:39:07,375 - Assignment_Appium -INFO - Click on Api-Demos
+2023-08-24 15:39:57,600 - Assignment_Appium -INFO - Click on App
+2023-08-24 15:40:47,957 - Assignment_Appium -INFO - Verify alert dialogs
+2023-08-24 15:41:28,267 - Assignment_Appium -INFO - Click on next
+2023-08-24 15:42:08,628 - Assignment_Appium -INFO - Click on next
+2023-08-24 15:42:48,869 - Assignment_Appium -INFO - Click on next
+2023-08-24 15:43:19,023 - Assignment_Appium -INFO - Verify title
+2023-08-24 15:43:59,277 - Assignment_Appium -INFO - Click on next
+2023-08-24 15:44:39,424 - Assignment_Appium -INFO - Click on next
+2023-08-24 15:45:09,532 - Assignment_Appium -INFO - Verify text
+2023-10-27 17:27:19,227 - Calculator_Test -INFO - Calculator app is open
+2023-10-27 17:27:50,813 - Calculator_Test -INFO - Calculator app is open
+2023-10-27 17:28:31,136 - Drag_Drop_Appium -INFO - Api-Demos application is opened
+2023-10-27 17:29:21,713 - Drag_Drop_Appium -INFO - Click on contiune
+2023-10-27 17:30:02,041 - Drag_Drop_Appium -INFO - Click on next
+2023-10-27 17:30:42,556 - Drag_Drop_Appium -INFO - Click on next
+2023-10-27 17:31:32,890 - Drag_Drop_Appium -INFO - Click on API Demos
+2023-10-27 17:32:23,166 - Drag_Drop_Appium -INFO - Click on views
+2023-10-27 17:33:03,566 - Drag_Drop_Appium -INFO - Click on next
+2023-10-27 17:34:50,336 - Drag_Drop_Appium -INFO - Drag & Drop activity is completed
+2023-10-27 17:34:50,790 - Drag_Drop_Appium -INFO - Close Application
+2023-11-09 15:22:18,917 - Assignment_Appium -INFO - Application open
+2023-11-09 15:23:09,626 - Assignment_Appium -INFO - Click on continue
+2023-11-09 15:23:50,117 - Assignment_Appium -INFO - Click on next
